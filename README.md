@@ -11,4 +11,8 @@ An online knowledge training system for students based on provided course materi
 - [ ] Communication Module
 - [ ] Frontend (Jinja2)
 
+## Techstack
 
+- [ ] Backend: Python, Flask, Ollama
+- [ ] Database: ChromaDB, MySQL
+- [ ] Frontend: Jinja, React, Tailwind
